@@ -1,4 +1,18 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Angel Romero'
 theme = 'PaperMod'
+
+[params.profileMode]
+enabled = true
+subtitle = 'Software Engineer'
+
+[params.socialIcons]
+
+[params.socialIcons.Github]
+name = 'Github'
+url = 'https://github.com/angelo102'
+
+[params.socialIcons.LinkedIn]
+name = 'LinkedIn'
+url = 'https://www.linkedin.com/in/angel-romero-68579730'
